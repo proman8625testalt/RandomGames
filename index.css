@@ -1,0 +1,50 @@
+body{
+
+background-color: orange;
+
+}
+
+
+
+.font{
+
+color: blue;
+size: 80;
+font-family: times new roman;
+
+}
+
+
+
+.h1{
+
+color: tomato;
+size: 100; 
+font-family: comic sans ms;
+
+}
+
+
+
+#a1{
+
+background: pink;
+
+}
+
+
+
+#img{
+
+border: dotted;
+border-radius: 50%;
+
+}
+
+
+
+.hh1{
+
+background-color: pink;
+
+}
